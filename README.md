@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-  <img src="https://imgur.com/a/bAnx2xB" style"width: 100%;border-radius:15px">
+  <img src="https://media.discordapp.net/attachments/946351088431411220/960131161735180409/V2.png" style"width: 100%;border-radius:15px">
 </div>
 
 ## <div align="center">I'm Gamer, mainly a Discord Bot Developer! Working since 2022 on Bots 🚀</div>  
