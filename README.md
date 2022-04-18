@@ -6,7 +6,7 @@
   
 ***
 
-- 🔭 I’m The Owner Of  [**Devil Development**](https://dsc.gg/devildevelopers)
+- 🔭 I’m The Owner Of  [**Devil Development**](https://discord.io/Devildevelopments)
   
 
 - 🌱 I’m currently coding in **Javascript** and C#.  
@@ -18,8 +18,8 @@
   
 ***
 
-## [Discord Server 😎](https://dsc.gg/devildevelopers) | [Website](https://devildevelopment.tk/)
-<a href="https://dsc.gg/devildevelopers"><img src="https://discord.com/api/guilds/943010340130668625/widget.png?style=banner2"></a>
+## [Discord Server 😎](https://discord.io/Devildevelopments) | [Website](https://devildevelopment.tk/)
+<a href="https://dsc.io/Devildevelopments"><img src="https://discord.com/api/guilds/948835189826666496/widget.png?style=banner2"></a>
 
 ***
 
