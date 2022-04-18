@@ -19,7 +19,7 @@
 ***
 
 ## [Discord Server 😎](https://discord.io/Devildevelopments) | [Website](https://devildevelopment.tk/)
-<a href="https://dsc.io/Devildevelopments"><img src="https://i.imgur.com/6hnduei.png"></a>
+<a href="https://dsc.io/Devildevelopments">
 
 ***
 
